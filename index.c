@@ -7,6 +7,7 @@ int main(){
     int c=a+b;
 
     printf("hellow world,%d",c);
+    printf("hello");
 
     int x=10;
 
