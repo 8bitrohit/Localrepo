@@ -8,7 +8,7 @@ int main(){
 
     printf("hellow world,%d",c);
     printf("Namaste");
-
+    printf("hello");
 
     int x=10;
 
