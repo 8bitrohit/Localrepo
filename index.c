@@ -7,5 +7,8 @@ int main(){
     int c=a+b;
 
     printf("hellow world,%d",c);
+
+    int x=10;
+
     return 0;
 }
